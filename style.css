@@ -61,3 +61,21 @@
     top: 200px;
     left: 620px;
 }
+#photo{
+    height: 300px;
+    width: 200px;
+
+    position: absolute;
+    top: 200px;
+    left: 1030px;
+
+    border: 5px solid;
+    border-style: outset;
+    border-color:cornflowerblue;
+    border-radius: 10px;
+    padding: 5px;
+    background-color:cornflowerblue;
+
+    background-image: url("images/myphoto.jpg");
+    background-position: center;
+}
