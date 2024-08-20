@@ -1,0 +1,63 @@
+#body{
+    background-image: url("/images/background.jpg");
+}
+#title{
+    border: 5px solid;
+    border-style: outset;
+    border-color: lightgray;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: lightgray;
+}
+#box1{
+    height: 200px;
+    width: 500px;
+
+    position: absolute;
+    top: 150px;
+
+    border: 5px solid;
+    border-style: outset;
+    border-color:beige;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: beige;
+}
+#box2{
+    height: 150px;
+    width: 500px;
+
+    position: absolute;
+    top: 400px;
+
+    border: 5px solid;
+    border-style: outset;
+    border-color:antiquewhite;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: antiquewhite;
+}
+
+#box3{
+    height: 400px;
+    width: 640px;
+
+    position: absolute;
+    top: 150px;
+    left: 600px;
+
+    border: 5px solid;
+    border-style: outset;
+    border-color:aquamarine;
+    border-radius: 10px;
+    padding: 5px;
+    background-color:aquamarine;
+}
+#description{
+    height: 400px;
+    width: 400px;
+
+    position: absolute;
+    top: 200px;
+    left: 620px;
+}
